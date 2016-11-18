@@ -1,6 +1,6 @@
 # top level stuff you probably don't need to touch
 highlighter: pygments
-markdown: rdiscount
+markdown: kramdown
 rdiscount:
   extensions: [smart]
 permalink: /:title.html
@@ -16,7 +16,16 @@ baseurl: /
 title: Muhammad Usama Masood
 author: Muhammad Usama Masood
 description: Sr. Software Eng | WordPress Entrepreneur | Father of 3 child's!
+website: musamamasood.com
+website_full: https://biomadeira.github.io/sustain
+tel: +92 321 6202026
+tel_full: tel:+923216202026
 avatar: profile.png
+google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
+address: House No. 10, Basement, Street No. 35-A,  I-9/4,
+postcode: 44000
+city: Islamabad
+country: Pakistan
 email: m.usama.masood@gmail.com
 github: musamamasood # username
 twitter: m_usama_masood
