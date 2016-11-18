@@ -1,5 +1,5 @@
 
-# Sustain
+# Muhammad Usama Masood
 
 [![Build Status](https://secure.travis-ci.org/biomadeira/sustain.png?branch=gh-pages)](http://travis-ci.org/biomadeira/sustain)
 [![Ruby](https://img.shields.io/badge/ruby-2.1,_2.2-blue.svg?style=flat)](http://travis-ci.org/biomadeira/sustain)
@@ -11,22 +11,7 @@ hosted in [Github pages](https://pages.github.com/).
 
 ## View the live demo
 
-[Sustain Live Demo](https://biomadeira.github.io/sustain)
-
-
-## Screenshots
-
-**Home page**
-![home page](https://raw.githubusercontent.com/biomadeira/sustain/gh-pages/assets/images/screen1.png)
-
-**Blog page**
-![blog page](https://raw.githubusercontent.com/biomadeira/sustain/gh-pages/assets/images/screen2.png)
-
-**Post page**
-![post page](https://raw.githubusercontent.com/biomadeira/sustain/gh-pages/assets/images/screen3.png)
-
-**Projects page**
-![project page](https://raw.githubusercontent.com/biomadeira/sustain/gh-pages/assets/images/screen4.png)
+[Muhammad Usama Masood](https://musamamasood.github.io)
 
 
 ## How to use it
@@ -37,14 +22,9 @@ Edit the site attributes in *_config.yml* and edit the various entries in *_incl
 
 ## Issues and contributing 
 
-I have tested this install with Ruby v2.2.2p95 (Mac OS RVM) and Jekyll v3.0.0. If you run into any problems please log them on the [issue tracker](https://github.com/biomadeira/sustain/issues).
+I have tested this install with Ruby v2.2.2p95 (Mac OS RVM) and Jekyll v3.0.0. If you run into any problems please log them on the [issue tracker](https://github.com/musamamasood/musamamasood.github.io/issues).
 
 Feel free pull-request your patches and fixes.
-
-#### Contributors
-
-[Sumit Murari](https://github.com/murarisumit), November 2015
-
 
 ## Thanks 
 
