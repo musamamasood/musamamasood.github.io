@@ -1,0 +1,31 @@
+# top level stuff you probably don't need to touch
+highlighter: pygments
+markdown: rdiscount
+rdiscount:
+  extensions: [smart]
+permalink: /:title.html
+paginate: 5
+gems: [jekyll-paginate]
+port: 3000
+safe: true
+
+
+# edit here to achieve your personal greatness
+url: http://musamamasood.github.io/
+baseurl: /musamamasood/
+title: Muhammad Usama Masood
+author: Muhammad Usama Masood
+description: Sr. Software Eng | WordPress Entrepreneur | Father of 3 child's!
+avatar: profile.png
+email: m.usama.masood@gmail.com
+github: musamamasood # username
+twitter: m_usama_masood
+linkedin: musamam
+stackoverflow: users/1899242/muhammad-usama   #e.g: users/1899242/muhammad-usama
+#Comment out if you don't want disqus 
+#disqus: username
+google_analytics: UA-69391421-1
+
+
+# needed for travis-ci build
+exclude: [vendor]
