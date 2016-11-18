@@ -28,7 +28,7 @@ Feel free pull-request your patches and fixes.
 
 ## Thanks 
 
-Profile picture from [pexels](https://www.pexels.com/photo/portrait-black-african-ethnicity-person-9494/).
+[Fábio Madeira](https://github.com/biomadeira).
 
 
 ## Copyright & License
